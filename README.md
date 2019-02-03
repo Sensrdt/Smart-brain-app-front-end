@@ -9,4 +9,8 @@ Run npm start
 
 You must add your own API key in the src/App.js file to connect to Clarifai.
 
+This is only the Frontend of the total website
+
+
+@Sridip Dutta => (Sensrdt { @Mahakal } v:1.0.0);
 
